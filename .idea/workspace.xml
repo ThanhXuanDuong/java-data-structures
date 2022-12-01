@@ -4,11 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d607ea9b-7523-451f-bf27-a22170708956" name="Changes" comment="" />
+    <list default="true" id="d607ea9b-7523-451f-bf27-a22170708956" name="Changes" comment="Init: 1.Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/neuefische/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/neuefische/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IJJM8AiVRs3uQHThkPDKtC4pr5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,9 +39,107 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": ""
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="de.neuefische" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ArrayAndHashMapTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.neuefische.Main" />
+      <module name="java-data-structures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.neuefische.ArrayAndHashMapTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayAndHashMapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-data-structures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.neuefische.ArrayAndHashMapTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.neuefische" />
+      <option name="MAIN_CLASS_NAME" value="de.neuefische.ArrayAndHashMapTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayAndHashMapTest.isAnagram_returnFalseIfLengthNotSame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-data-structures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.neuefische.ArrayAndHashMapTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.neuefische" />
+      <option name="MAIN_CLASS_NAME" value="de.neuefische.ArrayAndHashMapTest" />
+      <option name="METHOD_NAME" value="isAnagram_returnFalseIfLengthNotSame" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayAndHashMapTest.isAnagram_returnTrueIfIsAnagram" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-data-structures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.neuefische.ArrayAndHashMapTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.neuefische" />
+      <option name="MAIN_CLASS_NAME" value="de.neuefische.ArrayAndHashMapTest" />
+      <option name="METHOD_NAME" value="isAnagram_returnTrueIfIsAnagram" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayAndHashMapTest.returnIndicesOf2NumsThatSumUpToTarget" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-data-structures" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.neuefische.ArrayAndHashMapTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="de.neuefische" />
+      <option name="MAIN_CLASS_NAME" value="de.neuefische.ArrayAndHashMapTest" />
+      <option name="METHOD_NAME" value="returnIndicesOf2NumsThatSumUpToTarget" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ArrayAndHashMapTest" />
+        <item itemvalue="JUnit.ArrayAndHashMapTest.returnIndicesOf2NumsThatSumUpToTarget" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.ArrayAndHashMapTest.isAnagram_returnFalseIfLengthNotSame" />
+        <item itemvalue="JUnit.ArrayAndHashMapTest.isAnagram_returnTrueIfIsAnagram" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,8 +148,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669893702870</updated>
+      <workItem from="1669893704046" duration="11007000" />
     </task>
+    <task id="LOCAL-00001" summary="Init: 1.Commit">
+      <created>1669893784115</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669893784115</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -44,5 +173,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init: 1.Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init: 1.Commit" />
   </component>
 </project>
